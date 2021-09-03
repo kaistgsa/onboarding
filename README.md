@@ -32,31 +32,139 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 <details close>
 <summary>GSA 홈페이지</summary>
 
+- 👥 학우의 관점
+    - GSA 홈페이지는 원총에서 나가는 모든 정보와 홍보가 집약된 아카이빙 장소입니다.
+    - 원총뿐만 아니라 기혼자자치회 회원, 입주업체모니터링위원회의 위원, 입주업체 직원, 교내외 신문사 등 다양한 사람들이 드나들고 있습니다.
+    - 주요 페이지 소개:
+        - [공지사항 게시판](https://gsa.kaist.ac.kr/notice)
+        - [원총뉴스](https://gsa.kaist.ac.kr/news/)
+        - [진행 중인 서비스](https://gsa.kaist.ac.kr/services)
+        - [학과 학생행사지원사업](https://gsa.kaist.ac.kr/deptsupport)
+        - [교수와 학생의 신의존중 헌장](https://gsa.kaist.ac.kr/charter)
+        - [연구환경실태조사 보고서](https://gsa.kaist.ac.kr/regular_survey)
+        - [대학원생 인권센터](https://gsa.kaist.ac.kr/hrc)
+        - [기혼자자치회](https://gsa.kaist.ac.kr/married)
+        - [입주업체모니터링위원회 공지사항](https://gsa.kaist.ac.kr/rms_notice)
+        - [입주업체모니터링위원회 모니터링 일지(생활)](https://gsa.kaist.ac.kr/welfare_facilities_report)
+        - [입주업체모니터링위원회 모니터링 일지(식당)](https://gsa.kaist.ac.kr/cafeteria_report)
+    
+- 🧑‍💼 원총의 관점 
+    - 원총 홈페이지에 관리자로 로그인하시면 hidden 메뉴를 볼 수 있습니다.
+    ![GSA 홈페이지)](images/gsa-website.png)
+
+    - 🔒 hidden 메뉴:
+        - [대량 메일 발송 신청](https://gsa.kaist.ac.kr/adminMailshotRequestBoard)
+            - 학우들을 대상으로 단체메일을 발송할 때 사용합니다.
+            - 구글 드라이브와 연동되어 있어, 구글 드라이브 내 [X. 이메일 검토](https://drive.google.com/drive/folders/1NYwYfUDaasDduFWpjvnIWoWT6sMDZHlf)에 작성된 글을 불러오는 방식으로 구현되었습니다.
+        - [회의실 예약](https://gsa.kaist.ac.kr/meetingroom)
+            - 회의실은 자치단체와 모두 공유하기 때문에, 회의실 (서측회관 212호) 사용 시 예약이 필요합니다.
+        - [학생회비 납부 확인](https://gsa.kaist.ac.kr/adminCheckPaymentStatuses)
+            - 대학원 총학생회의 사업의 대다수는 학생회비 납부자를 우대합니다.
+            - 해당 학기의 학생회비 납부 확인이 필요할 경우, 여기에 학번을 입력해 조회하세요.
+            - 줄로 구분해 한번에 여러 학번의 학생회비 납부 여부를 조사할 수 있습니다.  
+        - [서비스 신청 결과](https://gsa.kaist.ac.kr/adminServices)  
+            - **서비스란?** 
+                - 구글폼을 이용하는 행사들도 있지만, 원총 홈페이지에서 "서비스"라는 신청 서비스를 이용하는 행사도 있습니다.
+                - 원총 홈페이지의 서비스를 사용하는 주 이유는, **학생회비를 납부한 학생들만 신청 가능하게끔 제한을 걸기** 위해서 입니다. (기자회 행사 등) 
+            - 서비스 신청 방법
+            ![서비스 1](images/service-1.jpg)  
+            ![서비스 2](images/service-2.jpg)  
+            ![서비스 3](images/service-3.jpg)  
+            ![서비스 4](images/service-4.jpg)  
+            - 슬랙의 [#49th_정보부_서비스_신청](https://kaist-gsa.slack.com/archives/C01PJ3FLNNR)을 참조해 주세요.
+          
 </details>
 
 
 <details close>
 <summary>이메일(Gmail, KAIST Dooray)</summary>
 
-</details>
+- Gmail (gsa@gsa.kaist.ac.kr)
+    - 동혁 작성 부탁 (이제 라벨링 어떻게 하는지 모르겠어서!!)
 
-<details close>
-<summary>슬랙(Slack)</summary>
+- KAIST Dooray (gsa-no-reply@kaist.ac.kr, grad@kaist.ac.kr)
+    - 형욱 작성 부탁 (간단히 이게 존재하는지만 알려드려도 될 것 같아)
 
 </details>
 
 <details close>
 <summary>카카오톡(Kakao Talk)</summary>
 
+- 일반적으로 모든 부원이 참여하는 방은 **공지방**과 **잡담방**입니다.
+- 공지방
+    - 목적: 전체 회의 투표, 전체 논의 사항 전달 등
+    - 구성: 대학원 총학생회 집행부와 대학원생 인권센터 구성원
+    - 공지방은 알람을 켜주시고, 중요한 공지만 공유해 주시길 부탁드립니다.
+- 잡담방: 
+    - 목적: 자유로운 토론과 대화
+    - 구성: 대학원 총학생회 집행부와 대학원생 인권센터 구성원
+    - 잡담방의 알람은 꺼두셔도 좋지만, 현안의 follow-up을 위해 ❗️주기적인 확인❗️ 부탁드립니다.
+
+![카카오톡](images/kakaotalk.png)
+
 </details>
+
+
+<details close>
+<summary>슬랙(Slack)</summary>
+
+- https://kaist-gsa.slack.com
+
+- 슬랙은 **TF/위원회/업무분장에 따라 소수의 인원만이** involve되어 있는 경우를 위해 사용하고 있습니다.
+
+- 제46대 대학원 총학생회 시절부터 사용해 왔으며, 기존 자료가 모두 아카이빙 되어 있습니다. ~~무료 plan이라 결제해야 볼 수 있을 거에요..~~
+
+- 필요에 따라 채널을 새로 생성하기도 합니다.
+
+- 누가 채널에 들어오고 들어오지 말아야하는 구분은 없습니다.
+    - 담당자는 무조건 자기 채널에 있어야 합니다.
+    - 관심있는 누구나 다른 채널에 들어가도 무방합니다.
+
+- 모두가 들어오길 권장하는 채널
+    - [#49th_원총뉴스](https://kaist-gsa.slack.com/archives/C01SUFB3VQU)
+    - [#49th_정보부_서비스_신청](https://kaist-gsa.slack.com/archives/C01PJ3FLNNR)
+    - [#49th_학교요청](https://kaist-gsa.slack.com/archives/C029HCZPL68)  
+    - [#49th_학우민원](https://kaist-gsa.slack.com/archives/C027NLLQ68K)  
+    - [#49th_홍보부](https://kaist-gsa.slack.com/archives/C01PSN1SWNA)  
+    - [#49th_연구환경실태조사](https://kaist-gsa.slack.com/archives/C027UJVNK8R)  
+- 관심이 있다면 들어오면 좋은 채널
+    - [#49th_경품출납관리](https://kaist-gsa.slack.com/archives/C0226M68M7S)
+    - [#49th_공간관리](https://kaist-gsa.slack.com/archives/C01PMBZNA1H)
+    - [#49th_식음료주문](https://kaist-gsa.slack.com/archives/C01PMC04CQK)
+    - [#49th_중앙운영위원회](https://kaist-gsa.slack.com/archives/C026P3CTREC)
+    - [#49th_상근](https://kaist-gsa.slack.com/archives/C025AUZTMQ8)
+
+- 기능 소개
+    - Channels
+        - 업무별 채널 개설 가능
+        - 채널 공개/비공개 설정 가능
+    - Direct Message
+    - App Integration
+    - 장점
+        - 내가 원하는 내용만 push 받을 수 있음. 
+        - 검색이 용이함. 
+        - 서식이 적용된 메시지 전송이 가능함. 
+        - 연도를 뛰어넘는 대화의 아카이빙이 가능함. 
+        - 다른 앱들과의 연동성이 좋음. (구글 드라이브, 캘린더, Dropbox 등) 
+
+![슬랙](images/slack.png)
+
+</details>
+
+
 
 <details close>
 <summary>아사나(Asana)</summary>
+
+동혁아 작성해줘! 
 
 </details>
 
 <details close>
 <summary>깃헙(GitHub)</summary>
+
+- https://github.com/kaistgsa
+- 형욱아 작성해줘! 
 
 </details>
 
@@ -67,16 +175,22 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 
 - 학우들에게 정보 전달과 의견 수렴을 목적으로 합니다.
 
-#### 홍보 7계명 
+#### 홍보 9계명 
 
-- 스팸성으로 느끼지 않게 할 것 ~~(학우들은 너무 바쁘다.)~~
-- 딱딱하지 않게, 같은 학우로서 공감의 어조를 담을 것  
-- 부정확한 정보, 비문, 오탈자를 삼가할 것  
-- 대용량의 파일, 이미지의 첨부는 최대한 자제할 것  
+- ✔️ 스팸성으로 느끼지 않게 할 것 ~~(학우들은 너무 바쁘다.)~~
+- ✔️ 딱딱하지 않게, 같은 학우로서 공감의 어조를 담을 것  
+- ✔️ 부정확한 정보, 비문, 오탈자, 장황한 문장을 삼가할 것 ~~(6천명의 학우를 대상으로 발송합니다.)~~ 
+- ✔️ 대용량의 파일, 이미지의 첨부는 최대한 자제할 것  
     - 필요 시 첨부파일이 아닌 링크로 대체  
-- 가독성이 좋은 서식을 사용할 것  
-- 읽고싶은 제목으로 작성할 것  
-- 특별한 사유 없이 외국인 학생을 배제하지 말 것   
+- ✔️ 가독성이 좋은 서식을 사용할 것  
+- ✔️ 읽고싶은 제목으로 작성할 것  
+- ✔️ 지저분한 링크를 사용하지 않고 되도록 신뢰도 높은 축약 링크를 사용할 것
+    - 🚫 https://docs.google.com/forms/d/e/1FAIpQLSdjkFW18ELd8uQenQmY7e8m3mTKa0FApoLvHGe62rC7Hv2f0Q/viewform?usp=sf_link
+    - 👌 https://forms.gle/MsxFjFA7ks6fLc8X8
+- ✔️ 특별한 사유 없이 외국인 학생을 배제하지 말 것   
+- ✔️ 다른 집행부원의 일정을 고려하여 충분히 여유를 갖고 홍보를 신청할 것
+- ✔️ 공식 명칭을 사용할 것
+    - 제49대VKAISTV대학원V총학생회
 
 #### 홍보 채널
 
@@ -147,7 +261,7 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 #### 홍보 프로세스
 - 업데이트를 진행하고 있습니다.
 - 기존의 홍보 프로세스는 [홍보 프로세스 가이드](https://github.com/kaistgsa/marketing-guide)를 참조해 주세요. 
-- 슬랙 [#홍보부 채널](https://kaist-gsa.slack.com/archives/C01PSN1SWNA)을 주시해 주세요. 
+- 슬랙 [#49th_홍보부 채널](https://kaist-gsa.slack.com/archives/C01PSN1SWNA)을 주시해 주세요. 
 
 ### 7. 회계 (TBD. 목요일 회의 후 결정)
 
