@@ -3,7 +3,12 @@ KAIST 대학원 총학생회 신입부원 가이드라인
 <!-- 되도록 링크로 빼고 내용에는 간소함을 유지할 것! -->
 ### 1. 원총의 설립 근거 (현수)
 
-- 줄글 블라블라
+- KAIST 대학원 총학생회는 (1) 대학원생의 권리를 보호하고 (2) 대학원생의 복지를 향상하기 위해 구성된 학생 자치단체입니다. 
+
+![GSA LOGO](https://user-images.githubusercontent.com/89190099/132075276-b1336513-9536-4211-8ce4-29a37d961b88.png)
+![edge-logo-transparent](https://user-images.githubusercontent.com/89190099/132075285-33b5ac68-f440-4eda-93dd-a89dd2978eae.png)
+
+
 - 학생회칙 링크걸기
 
 ### 2. 중앙운영위원회와의 관계 (현수)
