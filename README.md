@@ -63,12 +63,91 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 
 ### 6. 원총의 홍보 방법 및 채널 (수지)
 
-- 이메일
-- 포털
-- 인스타그램
-- 아라
-- 원총뉴스
-- 원총위키
+#### 홍보의 목적
+
+- 학우들에게 정보 전달과 의견 수렴을 목적으로 합니다.
+
+#### 홍보 7계명 
+
+- 스팸성으로 느끼지 않게 할 것 ~~(학우들은 너무 바쁘다.)~~
+- 딱딱하지 않게, 같은 학우로서 공감의 어조를 담을 것  
+- 부정확한 정보, 비문, 오탈자를 삼가할 것  
+- 대용량의 파일, 이미지의 첨부는 최대한 자제할 것  
+    - 필요 시 첨부파일이 아닌 링크로 대체  
+- 가독성이 좋은 서식을 사용할 것  
+- 읽고싶은 제목으로 작성할 것  
+- 특별한 사유 없이 외국인 학생을 배제하지 말 것   
+
+#### 홍보 채널
+
+<details close>
+<summary>단체메일</summary>
+
+- gsa@gsa.kaist.ac.kr 이 아닌 gsa-no-reply@kaist.ac.kr 로 발송되는 단체메일을 의미합니다.
+- 발송 권한: 정보부장
+
+</details>
+
+<details close>
+<summary>KAIST Portal</summary>
+
+- [KAIST Portal 학생공지사항](https://portal.kaist.ac.kr/ennotice/student_notice)에 게시하고 있습니다.  
+- KAIST Portal에 [원총/총학게시판](https://portal.kaist.ac.kr/ennotice/gsc_usc_notice)이 있지만, Portal 메인화면에 뜨지 않아 학생공지사항을 이용하고 있습니다.  
+![포탈 메인화면](images/portal-main.png)    
+- 게시 권한:   
+    - 집행부원 아무나 게시할 수 없고, 학생지원팀에 게시자를 공문으로 보내 권한을 얻은 이만 게시가 가능합니다. (현재: 회장단, 정보부장)   
+    ![포탈게시신청](images/portal-authority-mail.png) ![포탈게시신청](images/portal-authority-document.png)   
+
+</details>
+
+<details close>
+<summary>인스타그램</summary>
+
+- https://www.instagram.com/kaist_gsa/  
+- 모든 내용물을 게시하진 않으며, (1) 시각화가 용이하거나 (2) 최대한 학우들에게 친근히 다가갈 수 있는 콘텐츠를 위주로 게시합니다.  
+- 게시 권한: 홍보부장 (+회장단, 정보부장 역시 비밀번호를 공유하고 있습니다.)  
+- 이미지는 자체 제작도 가능하며, 망고보드의 템플릿을 이용할 수도 있습니다.  
+- 이따금씩 인스타 자체의 이벤트를 진행하기도 합니다.  
+
+</details>
+
+<details close>
+<summary>아라</summary>
+
+- https://newara.sparcs.org/board/organization-notice?topic=grad-assoc  
+- 유일하게 원총에서 공식적으로 소통하는 교내 커뮤니티.  
+    - [대나무숲(밤부)](https://bamboofo.rest)는 익명성의 문제로 모니터링은 하지만 대응하지 않습니다.  
+- 게시 권한: 홍보부장 (+회장단, 정보부장 역시 비밀번호를 공유하고 있습니다.)  
+
+</details>
+
+<details close>
+<summary>원총뉴스</summary>
+
+- https://gsa.kaist.ac.kr/news/  
+- 매월 말에 발송되는 월간 뉴스레터입니다.  
+- [Notion](https://www.notion.so/)을 이용해 작성하고 있습니다.  
+    - 2021/06 까지는 Notion이 아닌 이미지를 사용했습니다.   
+- 한 달 동안 있었던 원총의 크고 작은 소식과 상시 업무를 담아 보내고 있습니다.  
+- 사업 담당자가 사업의 개요를 작성하면, 원총뉴스 담당자가 해당 내용을 취합해 글로 작성합니다.   
+- 영문 번역은 [외주 업체](https://blog.naver.com/ImbacES)를 이용하고 있습니다.   
+
+</details>
+
+<details close>
+<summary>원총위키</summary>
+
+- https://gsa.kaist.ac.kr/wiki  
+- 원총의 모든 사업과 정책 이슈를 담으려는 아카이브입니다.  
+- 원총뉴스와 동일하게 사업 담당자가 작성한 사업 개요를 바탕으로, 원총위키 담당자가 해당 내용을 취합해 글로 작성합니다.   
+- 마크다운 에디터를 사용합니다.   
+
+</details>
+
+#### 홍보 프로세스
+- 업데이트를 진행하고 있습니다.
+- 기존의 홍보 프로세스는 [홍보 프로세스 가이드](https://github.com/kaistgsa/marketing-guide)를 참조해 주세요. 
+- 슬랙 [#홍보부 채널](https://kaist-gsa.slack.com/archives/C01PSN1SWNA)을 주시해 주세요. 
 
 ### 7. 회계 (TBD. 목요일 회의 후 결정)
 
