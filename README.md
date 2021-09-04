@@ -217,20 +217,13 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 
 
 <details close>
-<summary>이메일(Gmail, KAIST Dooray!)</summary>
+<summary>이메일(Gmail, KAIST Dooray)</summary>
 
 - Gmail (gsa@gsa.kaist.ac.kr)
-    - 라벨 분류작업: 회장단
-    - 처리대기중: 자동 생성
-    - 처리대기중인 메일 처리 재촉: 원무업무 담당자
-    - 처리대기중 제거: 업무 담당자
-    - 메일 보관: 회장
-    - 48시간 내 답장을 원칙
+    - 동혁 작성 부탁 (이제 라벨링 어떻게 하는지 모르겠어서!!)
 
-- KAIST Dooray!(gsa-no-reply@kaist.ac.kr, grad@kaist.ac.kr)
-    - 원총에서는 Gmail을 공식 이메일로 사용하고 있습니다. 다만, 대량 이메일을 발송할 때는 KAIST 구성원용 메일 시스템(Dooray!)를 사용합니다.
-    - 대량 메일은 한 번 발송하고 나면 되돌릴 수 없다는 특성 때문에, 다른 홍보 채널과 다르게 정보부장이 최종 발송을 전담하고 있습니다.
-    - 발송 전용으로만 사용한다는 원칙을 정해 두었지만, Dooray! 주소록에서 검색하거나 대량 메일에 직접 답장하는 경우가 빈번하여 Dooray! 이메일로 도착하는 모든 메일은 Gmail로 자동 전달하도록 되어 있습니다.
+- KAIST Dooray (gsa-no-reply@kaist.ac.kr, grad@kaist.ac.kr)
+    - 형욱 작성 부탁 (간단히 이게 존재하는지만 알려드려도 될 것 같아)
 
 </details>
 
@@ -412,7 +405,165 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 
 ## 7. 회계 (TBD. 목요일 회의 후 결정)
 
-## 8. 2021년 하반기 사업 (동혁)
+## 8. 2021년 하반기 사업 
+[하반기 사업 중운위 안건지에서 보기](https://github.com/kaistgsa/CMCM/blob/main/2021-1H-2st-CMC/%EC%9D%98%EA%B2%B0%EC%95%88%EA%B1%B4/2021%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EB%8C%80%ED%95%99%EC%9B%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C-%EC%A7%91%ED%96%89%EB%B6%80-%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D-%EC%98%88%EC%82%B0%EC%95%88-%EC%9D%B8%EC%A4%80.md)
+<table>
+<thead>
+  <tr>
+    <th>사업명</th>
+    <th>담당</th>
+    <th>사업 기간</th>
+    <th>사업 개요 및 내용</th>
+    <th colspan="2">사업 예산</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">3 Minute Thesis in KAIST</td>
+    <td rowspan="2">총학생회장, 대외협력부장</td>
+    <td rowspan="2">12월</td>
+    <td rowspan="2">교내와 국내 이공계 대학원생들과의 연구교류를 촉진하고 새로운 진로탐색에 도움을 주는 컴피티션 </td>
+    <td>학생회계</td>
+    <td>7,400</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>2,000</td>
+  </tr>
+  <tr>
+    <td rowspan="2">POKAS ON 발간 지원</td>
+    <td rowspan="2">대외협력부장</td>
+    <td rowspan="2">9월 ~ 12월</td>
+    <td rowspan="2">포스텍, KAIST, 서울대 대학원생들의 대학 별 및 대학 간 소통을 위해 기획된 계간지 POKAS ON의 발간을 지원하는 사업</td>
+    <td>학생회계</td>
+    <td>2,400</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td rowspan="2">물품대여사업</td>
+    <td rowspan="2">복지부장</td>
+    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">원총이 보유하고 있는 비품 및 학생들의 수요가 높은 물품을 구매하여 대학원생들을 대상으로 상시 대여를 진행</td>
+    <td>학생회계</td>
+    <td>3,000</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>1,727</td>
+  </tr>
+  <tr>
+    <td rowspan="2">연구실 정보공개 플랫폼 구축</td>
+    <td rowspan="2">부총학생회장</td>
+    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">연구실 인건비, 연간 논문실적, 졸업까지 걸리는 시간 등 연구실의 정량적 정보를 공개하여 신입생들의 연구실 선택에 도움을 주는 플랫폼 구축사업</td>
+    <td>학생회계</td>
+    <td>500</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>2,500</td>
+  </tr>
+  <tr>
+    <td rowspan="2">연구환경실태조사</td>
+    <td rowspan="2">총무부장</td>
+    <td rowspan="2">12월</td>
+    <td rowspan="2">대학원생들의 연구 환경에 대한 정보를 공유하고, 관련 문제점을 해결하기 위한 연구 환경 조사</td>
+    <td>학생회계</td>
+    <td>4,000</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>12,700</td>
+  </tr>
+  <tr>
+    <td rowspan="2">옆랩학생 엽서</td>
+    <td rowspan="2">기획부장</td>
+    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">대학원 생활을 진행하며 겪었던 문제, 고민 등을 공유할 수 있는 창구 마련을 위해 진행하는 주1회 구독 기반 뉴스레터 서비스</td>
+    <td>학생회계</td>
+    <td>400</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td rowspan="2">원총위키 운영</td>
+    <td rowspan="2">정책부장</td>
+    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">아카이빙의 역할을 하던 원총위키를 대학원 생활 전반적인 정보를 담은 콘텐츠로의 확장 및 교내 구성원 대상 홍보</td>
+    <td>학생회계</td>
+    <td>500</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>0</td>
+  </tr>
+    <tr>
+    <td rowspan="2">전문연 입소/퇴소 차량 지원</td>
+    <td rowspan="2">복지부장</td>
+    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">전문연구요원에 편입된 박사과정 학생들에게 교통 편의를 제공하기 위해 논산훈련소까지 차량을 지원<br>※ 코로나19로 인한 예비군 훈련 취소로 예비군 훈련 입소/퇴소 차량 지원 사업 예산 편입</td>
+    <td>학생회계</td>
+    <td>1,000</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>6,800</td>
+  </tr>
+   <tr>
+    <td rowspan="2">예비군 입소/퇴소 차량 지원</td>
+    <td rowspan="2">복지부장</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">※ 코로나19로 인한 예비군 훈련 취소로 예비군 훈련 입소/퇴소 차량 지원 사업 예산을 전문연 입소/퇴소 차량지원 사업으로 일괄편입함. </td>
+    <td>학생회계</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td rowspan="2">카이밍글</td>
+    <td rowspan="2">소통부장</td>
+    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">코로나19로 인한 비대면 환경 속에서 대학원생의 원활한 정보/경험 공유를 촉진</td>
+    <td>학생회계</td>
+    <td>2,800</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>1,000</td>
+  </tr>
+  <tr>
+    <td rowspan="2">테마강좌</td>
+    <td rowspan="2">홍보부장</td>
+    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">삶의 질을 향상시킬 수 있는 실용적인 특강 제공, 학생들에게 필요한 효율적이고 실질적인 도움을 기대</td>
+    <td>학생회계</td>
+    <td>1,200</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>6,000</td>
+  </tr>
+  <tr>
+    <td rowspan="2">하반기 취업박람회</td>
+    <td rowspan="2">정책부장</td>
+    <td rowspan="2">9월 ~ 10월</td>
+    <td rowspan="2">대학원생에게 기업 및 취업에 대한 정보 제공, 진로 탐색의 기회를 넓힐 것을 기대</td>
+    <td>학생회계</td>
+    <td>950</td>
+  </tr>
+  <tr>
+    <td>일반회계</td>
+    <td>0</td>
+  </tr>
+</tbody>
+</table>
 
 ## 9. 2021년 업무분장 (동혁)
 
