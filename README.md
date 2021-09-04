@@ -424,7 +424,7 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 - 기존의 홍보 프로세스는 [홍보 프로세스 가이드](https://github.com/kaistgsa/marketing-guide)를 참조해 주세요. 
 - 슬랙 [#49th_홍보부 채널](https://kaist-gsa.slack.com/archives/C01PSN1SWNA)을 주시해 주세요. 
 
-## 7. 회계 (TBD. 목요일 회의 후 결정)
+## 7. 회계 (TBD)
 
 ## 8. 2021년 하반기 사업 
 [하반기 사업 중운위 안건지에서 보기](https://github.com/kaistgsa/CMCM/blob/main/2021-1H-2st-CMC/%EC%9D%98%EA%B2%B0%EC%95%88%EA%B1%B4/2021%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EB%8C%80%ED%95%99%EC%9B%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C-%EC%A7%91%ED%96%89%EB%B6%80-%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D-%EC%98%88%EC%82%B0%EC%95%88-%EC%9D%B8%EC%A4%80.md)
