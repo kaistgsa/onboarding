@@ -305,7 +305,7 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 - Asana 활용 목적 :
     - 일단위 업무 체크
     - 중요 사항 아카이빙
-    - <a href="resources/gsa-asana-guideline"> Asana 가이드라인 보러가기 </a>
+    - <a href="resources/gsa-asana-guideline.pdf"> Asana 가이드라인 보러가기 </a>
 
 </details>
 
