@@ -3,7 +3,7 @@ KAIST 대학원 총학생회 신입부원 가이드라인
 <!-- 되도록 링크로 빼고 내용에는 간소함을 유지할 것! -->
 ### 1. 원총의 설립 근거 (현수)
 
-- KAIST 대학원 총학생회는 (1) 대학원생의 권리를 보호하고 (2) 대학원생의 복지를 향상하기 위해 구성된 학생 자치단체입니다. 
+- KAIST 대학원 총학생회는 **(1) 대학원생의 권리를 보호**하고 **(2) 대학원생의 복지를 향상**하기 위해 구성된 학생 자치단체입니다. 
 
 ![GSA LOGO](https://user-images.githubusercontent.com/89190099/132076541-b8967647-be9d-477b-8e88-00aef45faa32.png)
 ![edge-logo-transparent](https://user-images.githubusercontent.com/89190099/132076542-d7a54bed-8985-4911-9b88-a886b8b15722.png)
@@ -12,8 +12,15 @@ KAIST 대학원 총학생회 신입부원 가이드라인
 
 - 대학원 총학생회 학칙 👉 [바로가기](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-학생회칙.md) 👈
 
+- KAIST 대학원 총학생회 조직도
 
-- 학생회칙 링크걸기
+<img width="697" alt="Screen Shot 2021-09-04 at 12 00 05 PM" src="https://user-images.githubusercontent.com/89190099/132080320-5d84dea8-a5f2-4b3d-b33a-ccc10a150487.png">
+
+   대학원 총학생회는 학생총회, 6개의 산하기구, 그리고 3개의 협력기구로 구성됩니다.
+   - 학생총회:
+   - 학생 회장단:
+   - 학생회 집행부원:
+   - 
 
 ### 2. 중앙운영위원회와의 관계 (현수)
 
