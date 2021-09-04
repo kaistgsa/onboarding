@@ -273,10 +273,10 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
     - [#49th_홍보부](https://kaist-gsa.slack.com/archives/C01PSN1SWNA)  
     - [#49th_연구환경실태조사](https://kaist-gsa.slack.com/archives/C027UJVNK8R)  
 
-     - 관심이 있다면 들어오면 좋은 채널
+- 관심이 있다면 들어오면 좋은 채널
     - [#49th_경품출납관리](https://kaist-gsa.slack.com/archives/C0226M68M7S)
     - [#49th_공간관리](https://kaist-gsa.slack.com/archives/C01PMBZNA1H)
-    - [#49th_식음료주문](https://kaist-gsa.slack.com/archives/C01PMC04CQK)
+    - ~~[#49th_식음료주문](https://kaist-gsa.slack.com/archives/C01PMC04CQK)~~ 있었지만 없었습니다.  
     - [#49th_중앙운영위원회](https://kaist-gsa.slack.com/archives/C026P3CTREC)
     - [#49th_상근](https://kaist-gsa.slack.com/archives/C025AUZTMQ8)
 
