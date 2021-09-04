@@ -129,7 +129,7 @@ KAIST 대학원 총학생회 신입부원 가이드라인
   - 교무팀 : 교원 인사관리 (원총과 접점 많지 않음)
   - 학적팀 : 수업, 시험, 학적상태, 수강신청, 재수강, 납입금 고지 등등 
   - 교학기획팀 : 학사운영, 학사제도 전반
-5. 학생정책처장 / 학생생활처장 : 매년 다를 수 있으나 올해에는 거의 늘 같이 움직임. 원총과 가장 자주 만나는 처장들.[학생정책처 업무](https://rule.kaist.ac.kr/lmxsrv/law/lawFullContent.do?SEQ=96&SEQ_HISTORY=3192#63) [학생생활처 업무](https://rule.kaist.ac.kr/lmxsrv/law/lawFullContent.do?SEQ=96&SEQ_HISTORY=3192#67)<br>
+5. 학생정책처장 / 학생생활처장 : 매년 다를 수 있으나 올해에는 거의 늘 같이 움직임. 원총과 가장 자주 만나는 처장들.<br>[학생정책처 업무](https://rule.kaist.ac.kr/lmxsrv/law/lawFullContent.do?SEQ=96&SEQ_HISTORY=3192#63) <br>[학생생활처 업무](https://rule.kaist.ac.kr/lmxsrv/law/lawFullContent.do?SEQ=96&SEQ_HISTORY=3192#67)<br>
   - 학생지원팀 : 학생회 활동 지원부서, 전문연 관리 등. 원총과 접점이 가장 많은 학교 부서. 늘 우호적인 관계를 유지하는 것이 좋지만, 요청하는 것을 다 수락해서도 안됨. 
   - 장학복지팀 : 근로장학금, 장학금, 의료상조회, 학생복지 업무 전반. 종종 만나게 되는 부서.
   - 학생생활팀 : 생활관 관련 업무. 생활관자치회와 상당한 유관부서. 원총과는 만날 기회 많지 않음.
