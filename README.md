@@ -514,3 +514,9 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 
 
 </details>
+
+## 9/4 워크샵에서만 공유될 내용 (추후 삭제 예정)
+  - [하반기 인수인계 보고서 작성]()
+  - [밥팅](https://colab.research.google.com/drive/15yIMKfZhfLXslWMQ3QswZ4m1KxpmxsOe?usp=sharing)
+    - 4인 1조로 총 5주 동안 진행
+    - 1인당 1만원까지 식사비 지원
