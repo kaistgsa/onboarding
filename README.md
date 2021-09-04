@@ -312,7 +312,21 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 <summary>깃헙(GitHub)</summary>
 
 - https://github.com/kaistgsa
-- 형욱아 작성해줘! 
+- 목적
+    - 버전 관리
+    - 협업
+    - 정보 공개
+- GitHub은 Git을 여러 사람이 편리하게 사용할 수 있도록 해 주는 호스팅 및 소셜 네트워크 서비스
+- 보기
+    - <https://github.com/kaistgsa/organization-bylaw>
+    - <https://github.com/kaistgsa/CMCM>
+- 편집하기
+    - 🖊️ 수정 버튼을 눌러 바로 편집하기
+    - 키보드에서 `.` 키를 눌러서 웹 에디터를 실행한 다음, 저장 및 커밋하기
+    - (고급) Git 저장소를 clone하여 저장, commit, push하기
+- 고급 사용법
+    - <https://git-scm.com/book/ko/>
+    - <https://www.youtube.com/watch?v=QisJiNmcsRQ&list=PLEuUpEnGYe0ZEpZfeVpnn-38k6xpLTgFH>
 
 </details>
 
