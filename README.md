@@ -217,13 +217,20 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 
 
 <details close>
-<summary>이메일(Gmail, KAIST Dooray)</summary>
+<summary>이메일(Gmail, KAIST Dooray!)</summary>
 
 - Gmail (gsa@gsa.kaist.ac.kr)
-    - 동혁 작성 부탁 (이제 라벨링 어떻게 하는지 모르겠어서!!)
+    - 라벨 분류작업: 회장단
+    - 처리대기중: 자동 생성
+    - 처리대기중인 메일 처리 재촉: 원무업무 담당자
+    - 처리대기중 제거: 업무 담당자
+    - 메일 보관: 회장
+    - 48시간 내 답장을 원칙
 
-- KAIST Dooray (gsa-no-reply@kaist.ac.kr, grad@kaist.ac.kr)
-    - 형욱 작성 부탁 (간단히 이게 존재하는지만 알려드려도 될 것 같아)
+- KAIST Dooray!(gsa-no-reply@kaist.ac.kr, grad@kaist.ac.kr)
+    - 원총에서는 Gmail을 공식 이메일로 사용하고 있습니다. 다만, 대량 이메일을 발송할 때는 KAIST 구성원용 메일 시스템(Dooray!)를 사용합니다.
+    - 대량 메일은 한 번 발송하고 나면 되돌릴 수 없다는 특성 때문에, 다른 홍보 채널과 다르게 정보부장이 최종 발송을 전담하고 있습니다.
+    - 발송 전용으로만 사용한다는 원칙을 정해 두었지만, Dooray! 주소록에서 검색하거나 대량 메일에 직접 답장하는 경우가 빈번하여 Dooray! 이메일로 도착하는 모든 메일은 Gmail로 자동 전달하도록 되어 있습니다.
 
 </details>
 
