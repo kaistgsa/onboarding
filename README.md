@@ -219,9 +219,15 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 <details close>
 <summary>이메일(Gmail, KAIST Dooray)</summary>
 
+- 이메일은 원총업무의 시작과 끝입니다.
 - Gmail (gsa@gsa.kaist.ac.kr)
-    - 동혁 작성 부탁 (이제 라벨링 어떻게 하는지 모르겠어서!!)
-
+    - 라벨 분류작업: 회장단
+    - 처리대기중: 자동 생성
+    - 처리대기중인 메일 처리 재촉: 원무업무 담당자
+    - 처리대기중 제거: 업무 담당자
+    - 메일 보관: 회장
+    - 48시간 내 답장을 원칙
+    
 - KAIST Dooray (gsa-no-reply@kaist.ac.kr, grad@kaist.ac.kr)
     - 형욱 작성 부탁 (간단히 이게 존재하는지만 알려드려도 될 것 같아)
 
