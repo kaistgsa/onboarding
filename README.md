@@ -429,104 +429,80 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">3 Minute Thesis in KAIST</td>
-    <td rowspan="2">총학생회장, 대외협력부장</td>
-    <td rowspan="2">12월</td>
-    <td rowspan="2">교내와 국내 이공계 대학원생들과의 연구교류를 촉진하고 새로운 진로탐색에 도움을 주는 컴피티션 </td>
-    <td>학생회계</td>
-    <td>7,400</td>
-  </tr>
-  <tr>
-    <td>일반회계</td>
-    <td>2,000</td>
-  </tr>
-  <tr>
-    <td rowspan="2">POKAS ON 발간 지원</td>
-    <td rowspan="2">대외협력부장</td>
-    <td rowspan="2">9월 ~ 12월</td>
-    <td rowspan="2">포스텍, KAIST, 서울대 대학원생들의 대학 별 및 대학 간 소통을 위해 기획된 계간지 POKAS ON의 발간을 지원하는 사업</td>
-    <td>학생회계</td>
-    <td>2,400</td>
-  </tr>
-  <tr>
-    <td>일반회계</td>
-    <td>0</td>
-  </tr>
-  <tr>
     <td rowspan="2">물품대여사업</td>
-    <td rowspan="2">복지부장</td>
-    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">3월 ~ 8월</td>
     <td rowspan="2">원총이 보유하고 있는 비품 및 학생들의 수요가 높은 물품을 구매하여 대학원생들을 대상으로 상시 대여를 진행</td>
     <td>학생회계</td>
-    <td>3,000</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td>일반회계</td>
-    <td>1,727</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td rowspan="2">연구실 정보공개 플랫폼 구축</td>
-    <td rowspan="2">부총학생회장</td>
-    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">정책국</td>
+    <td rowspan="2">3월 ~ 8월</td>
     <td rowspan="2">연구실 인건비, 연간 논문실적, 졸업까지 걸리는 시간 등 연구실의 정량적 정보를 공개하여 신입생들의 연구실 선택에 도움을 주는 플랫폼 구축사업</td>
     <td>학생회계</td>
-    <td>500</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td>일반회계</td>
-    <td>2,500</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td rowspan="2">연구환경실태조사</td>
-    <td rowspan="2">총무부장</td>
+    <td rowspan="2">전체</td>
     <td rowspan="2">12월</td>
     <td rowspan="2">대학원생들의 연구 환경에 대한 정보를 공유하고, 관련 문제점을 해결하기 위한 연구 환경 조사</td>
     <td>학생회계</td>
-    <td>4,000</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td>일반회계</td>
-    <td>12,700</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td rowspan="2">옆랩학생 엽서</td>
-    <td rowspan="2">기획부장</td>
-    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">3월 ~ 8월</td>
     <td rowspan="2">대학원 생활을 진행하며 겪었던 문제, 고민 등을 공유할 수 있는 창구 마련을 위해 진행하는 주1회 구독 기반 뉴스레터 서비스</td>
     <td>학생회계</td>
     <td>400</td>
   </tr>
   <tr>
     <td>일반회계</td>
-    <td>0</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td rowspan="2">원총위키 운영</td>
-    <td rowspan="2">정책부장</td>
-    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">3월 ~ 8월</td>
     <td rowspan="2">아카이빙의 역할을 하던 원총위키를 대학원 생활 전반적인 정보를 담은 콘텐츠로의 확장 및 교내 구성원 대상 홍보</td>
     <td>학생회계</td>
-    <td>500</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td>일반회계</td>
-    <td>0</td>
+    <td>미정</td>
   </tr>
     <tr>
     <td rowspan="2">전문연 입소/퇴소 차량 지원</td>
-    <td rowspan="2">복지부장</td>
+    <td rowspan="2">사무국</td>
     <td rowspan="2">9월 ~ 2월</td>
     <td rowspan="2">전문연구요원에 편입된 박사과정 학생들에게 교통 편의를 제공하기 위해 논산훈련소까지 차량을 지원<br>※ 코로나19로 인한 예비군 훈련 취소로 예비군 훈련 입소/퇴소 차량 지원 사업 예산 편입</td>
     <td>학생회계</td>
-    <td>1,000</td>
+    <td>미정0</td>
   </tr>
   <tr>
     <td>일반회계</td>
-    <td>6,800</td>
+    <td>미정</td>
   </tr>
    <tr>
     <td rowspan="2">예비군 입소/퇴소 차량 지원</td>
-    <td rowspan="2">복지부장</td>
+    <td rowspan="2">사무국</td>
     <td rowspan="2"></td>
     <td rowspan="2">※ 코로나19로 인한 예비군 훈련 취소로 예비군 훈련 입소/퇴소 차량 지원 사업 예산을 전문연 입소/퇴소 차량지원 사업으로 일괄편입함. </td>
     <td>학생회계</td>
@@ -534,43 +510,43 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
   </tr>
   <tr>
     <td>일반회계</td>
-    <td>0</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td rowspan="2">카이밍글</td>
-    <td rowspan="2">소통부장</td>
-    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">3월 ~ 8월</td>
     <td rowspan="2">코로나19로 인한 비대면 환경 속에서 대학원생의 원활한 정보/경험 공유를 촉진</td>
     <td>학생회계</td>
-    <td>2,800</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td>일반회계</td>
-    <td>1,000</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td rowspan="2">테마강좌</td>
-    <td rowspan="2">홍보부장</td>
-    <td rowspan="2">9월 ~ 2월</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">3월 ~ 8월</td>
     <td rowspan="2">삶의 질을 향상시킬 수 있는 실용적인 특강 제공, 학생들에게 필요한 효율적이고 실질적인 도움을 기대</td>
     <td>학생회계</td>
-    <td>1,200</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td>일반회계</td>
-    <td>6,000</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td rowspan="2">하반기 취업박람회</td>
-    <td rowspan="2">정책부장</td>
-    <td rowspan="2">9월 ~ 10월</td>
+    <td rowspan="2">복지국</td>
+    <td rowspan="2">3월 ~ 4월</td>
     <td rowspan="2">대학원생에게 기업 및 취업에 대한 정보 제공, 진로 탐색의 기회를 넓힐 것을 기대</td>
     <td>학생회계</td>
-    <td>950</td>
+    <td>미정</td>
   </tr>
   <tr>
     <td>일반회계</td>
-    <td>0</td>
+    <td>미정</td>
   </tr>
 </tbody>
 </table>
