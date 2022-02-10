@@ -565,19 +565,11 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 총학생회장, 부총학생회장, 인권센터장이 논의하여 정하며, 최종 결정은 총학생회장이 함<br>
 
 
-
-[2021년 하반기 업무분장 보러가기](https://docs.google.com/spreadsheets/d/1w2RWZumTgNskzRuBY1E9aSOMZomS5QWZmYPfiZA_ycg/edit#gid=387381120)
-
 - 업무 관리 방식
   - 월간 : (월말) (회장단) 업무분장 리뉴얼 
   - 주간 : 주간계획표 작성
     - 업무분장에 따라 자동으로 템플릿 생성
     - 주간업무 계획을 작성
-  - 일간 : Asana 체크
-    - 주간업무 계획에서 계획한 업무를 실행할 daily 단위의 계획들.
-    - 주건계획표에서 작성한 내용을 회장단이 task로 생성함.
-    - daily로 진행할 내용을 담당자가 직접 생성하여 진행함.
-    - 해당 업무가 끝났으면 task complete.
 
 
 ## 10. 원총 자산 소개
@@ -728,9 +720,3 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 
 
 </details>
-
-## 9/4 워크샵에서만 공유될 내용 (추후 삭제 예정)
-  - [하반기 인수인계 보고서 작성](https://drive.google.com/drive/folders/1AEfrYp5rx559HltIo8ooll2oI76X4YYk?usp=sharing)
-  - [밥팅](https://colab.research.google.com/drive/15yIMKfZhfLXslWMQ3QswZ4m1KxpmxsOe?usp=sharing)
-    - 4인 1조로 총 5주 동안 진행
-    - 1인당 1만원까지 식사비 지원
