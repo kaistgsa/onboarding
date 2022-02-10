@@ -412,8 +412,6 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 
 ### 🌟 홍보 프로세스
 - 업데이트를 진행하고 있습니다.
-- 기존의 홍보 프로세스는 [홍보 프로세스 가이드](https://github.com/kaistgsa/marketing-guide)를 참조해 주세요. 
-- 슬랙 [#49th_홍보부 채널](https://kaist-gsa.slack.com/archives/C01PSN1SWNA)을 주시해 주세요. 
 
 ## 7. 회계 (TBD)
 
@@ -603,7 +601,6 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 총학생회장, 부총학생회장, 인권센터장이 논의하여 정하며, 최종 결정은 총학생회장이 함<br>
 
 
-![원총 업무 개념도](images/gsa-tasks.png)
 
 [2021년 하반기 업무분장 보러가기](https://docs.google.com/spreadsheets/d/1w2RWZumTgNskzRuBY1E9aSOMZomS5QWZmYPfiZA_ycg/edit#gid=387381120)
 
