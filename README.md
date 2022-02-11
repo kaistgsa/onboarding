@@ -427,11 +427,13 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
   </tr>
 </thead>
 <tbody>
-    <tr>
-    <td rowspan="2">KAIST 타운홀 미팅(가칭)</td>
+  <tr>
+      <td rowspan="2">KAIST 타운홀 미팅(가칭)</td>
     <td rowspan="2">회장단</td>
     <td rowspan="2">3월 ~ 8월</td>
     <td rowspan="2">학교 보직자들과의 한판 승부</td>
+    </tr>
+    <tr>
   </tr>
   <tr>
     <td rowspan="2">물품대여사업</td>
