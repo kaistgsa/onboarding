@@ -450,14 +450,6 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
     <tr>
   </tr>
   <tr>
-    <td rowspan="2">물품대여사업</td>
-    <td rowspan="2">복지국</td>
-    <td rowspan="2">3월 ~ 8월</td>
-    <td rowspan="2">원총이 보유하고 있는 비품 및 학생들의 수요가 높은 물품을 구매하여 대학원생들을 대상으로 상시 대여를 진행</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
     <td rowspan="2">연구실 정보공개 플랫폼 구축</td>
     <td rowspan="2">정책국</td>
     <td rowspan="2">3월 ~ 8월</td>
@@ -490,6 +482,14 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
   <tr>
   </tr>
   <tr>
+    <td rowspan="2">원총뉴스</td>
+    <td rowspan="2">홍보국</td>
+    <td rowspan="2">3월 ~ 8월</td>
+    <td rowspan="2">매달 말 마다 원총에서 진행한 사업, 정책의 성과들을 정리하여 뉴스 형식으로 학생들에게 안내 및 홍보</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
     <td rowspan="2">전문연 입소/퇴소 차량 지원</td>
     <td rowspan="2">사무국</td>
     <td rowspan="2">3월 ~ 8월</td>
@@ -516,8 +516,30 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
   <tr>
     <td rowspan="2">테마강좌</td>
     <td rowspan="2">문화국</td>
-    <td rowspan="2">3월 ~ 4월</td>
+    <td rowspan="2">3월 ~ 6월</td>
     <td rowspan="2">삶의 질을 향상시킬 수 있는 실용적인 특강 제공, 학생들에게 필요한 효율적이고 실질적인 도움을 기대</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="2">랜선가요제</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">4월 ~ 5월</td>
+    <td rowspan="2">중간고사 후, 축제 전 학생들이 즐길 수 있는 소소한 행사 제공</td>
+  </tr>
+  <tr>
+  </tr>
+    <tr>
+    <td rowspan="2">슬기로운 대학원 생활</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">2월 ~ 5월</td>
+    <td rowspan="2">학생들에게 유용한 정보, 강연 제공</td>
+  </tr>
+  <tr>
+    <td rowspan="2">과학자의 정원</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">5월 ~ 8월</td>
+    <td rowspan="2">학생들에게 학술적으로 도움이 될 수 있는 컨퍼런스 등 정보 공유의 장 개최</td>
   </tr>
   <tr>
   </tr>
@@ -526,6 +548,30 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
     <td rowspan="2">복지국</td>
     <td rowspan="2">3월 ~ 4월</td>
     <td rowspan="2">대학원생에게 기업 및 취업에 대한 정보 제공, 진로 탐색의 기회를 넓힐 것을 기대</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="2">물품대여사업</td>
+    <td rowspan="2">복지국</td>
+    <td rowspan="2">3월 ~ 8월</td>
+    <td rowspan="2">원총이 보유하고 있는 비품 및 학생들의 수요가 높은 물품을 구매하여 대학원생들을 대상으로 상시 대여를 진행</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="2">굿즈제작사업</td>
+    <td rowspan="2">복지국</td>
+    <td rowspan="2">3월 ~ 8월</td>
+    <td rowspan="2">학생들이 직접 학교의 굿즈를 제작하고, 원총에서 판매하는 방식으로 진행 (예시: 후드티, 명함 등)</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="2">학과학생행사지원사업</td>
+    <td rowspan="2">복지국</td>
+    <td rowspan="2">4월</td>
+    <td rowspan="2">각 학과 대표들이 학과 학생들을 위한 사업을 직접 설계 및 진행하며, 원총에서 지원하는 사업</td>
   </tr>
   <tr>
   </tr>
