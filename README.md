@@ -529,11 +529,13 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
   </tr>
   <tr>
   </tr>
-    <tr>
+  <tr>
     <td rowspan="2">슬기로운 대학원 생활</td>
     <td rowspan="2">문화국</td>
     <td rowspan="2">2월 ~ 5월</td>
     <td rowspan="2">학생들에게 유용한 정보, 강연 제공</td>
+  </tr>
+  <tr>
   </tr>
   <tr>
     <td rowspan="2">과학자의 정원</td>
