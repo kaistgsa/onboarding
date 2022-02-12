@@ -450,14 +450,6 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
     <tr>
   </tr>
   <tr>
-    <td rowspan="2">연구환경실태조사</td>
-    <td rowspan="2">전체</td>
-    <td rowspan="2">12월</td>
-    <td rowspan="2">대학원생들의 연구 환경에 대한 정보를 공유하고, 관련 문제점을 해결하기 위한 연구 환경 조사</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
     <td rowspan="2">연구실 정보공개 플랫폼 구축</td>
     <td rowspan="2">정책국</td>
     <td rowspan="2">3월 ~ 8월</td>
