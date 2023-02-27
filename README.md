@@ -7,7 +7,7 @@ KAIST 대학원 총학생회 신입부원 가이드라인
 ### (1) 원총에 대한 기본 설명
 - KAIST 대학원 총학생회는 **(1) 대학원생의 권리를 보호**하고 **(2) 대학원생의 복지를 향상**하기 위해 구성된 학생 자치단체입니다. 
 
-![GSA LOGO](images/gsa-logo.png) <img src="images/ONE-PEACE_logo.svg" width="50%" height="50%">
+![GSA LOGO](images/gsa-logo.png) <img src="images/ONE-PEACE_logo.svg" width="70%" height="70%">
 
 - 1973년 제1대 대학원 총학생회가 설립된 이래, 2022년 우리는 제51대 대학원 총학생회 ONE-PEACE 입니다. 
     - 3대 핵심 공약
