@@ -9,7 +9,7 @@ KAIST 대학원 총학생회 신입부원 가이드라인
 
 ![GSA LOGO](images/gsa-logo.png) ![b-side-logo-transparent](images/ONE-PEACE_logo.svg){: width="50%" height="50%"}
 
-- 1973년 제1대 대학원 총학생회가 설립된 이래, 2022년 우리는 제50대 대학원 총학생회 B-side 입니다. 
+- 1973년 제1대 대학원 총학생회가 설립된 이래, 2022년 우리는 제51대 대학원 총학생회 ONE-PEACE 입니다. 
     - 3대 핵심 공약
         1. 학연장려금 충족 조건 축소
         2. 불합리한 학사 제도 개선
