@@ -1,4 +1,4 @@
-KAIST 대학원 총학생회 신입부원 가이드라인
+![image](https://github.com/kaistgsa/onboarding/assets/62004388/3ec0d85e-6758-4d3d-9d8a-3fac10f8aa07)KAIST 대학원 총학생회 신입부원 가이드라인
 ===
 
 <!-- 되도록 링크로 빼고 내용에는 간소함을 유지할 것! -->
@@ -9,11 +9,12 @@ KAIST 대학원 총학생회 신입부원 가이드라인
 
 ![GSA LOGO](images/gsa-logo.png) <img src="images/NON-STOP_logo.png" width="70%" height="70%">
 
-- 1973년 제1대 대학원 총학생회가 설립된 이래, 2022년 우리는 제51대 대학원 총학생회 ONE-PEACE 입니다. 
-    - 3대 핵심 공약
-        1. 학연장려금 충족 조건 축소
-        2. 불합리한 학사 제도 개선
-        3. 대학원생 복지 제도 개선
+- 1973년 제1대 대학원 총학생회가 설립된 이래, 2024년 우리는 제52대 대학원 총학생회 NON-STOP 입니다. 
+    - 4대 핵심 공약
+        1. 석박사 학생 인건비 계상기준 인상
+        2. 학내 식사/편의 시설 개선 (소비 자생활협동조합 지원)
+        3. 기숙사 등 주거 시설 개선 정책 구체화 및 실현
+        4. 학생자치단체의 연계 강화
 
 ### (2) 한국과학기술원 대학원 학생회칙
 - [한국과학기술원 대학원 학생회칙 바로가기](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-학생회칙.md)
@@ -122,7 +123,7 @@ KAIST 대학원 총학생회 신입부원 가이드라인
 
 ## 4. 학교 주요 부서에 대한 이해
 
-![학교조직도](images/kaist-organization-structure.png)
+![학교조직도](images/2024_Organization.png)
 
 ### 원총이 상대해야 하는 학교 조직 / 사람
 
@@ -429,8 +430,8 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 
 - [51대 집행부부터 변경되는 예산 규정](https://github.com/kaistgsa/CMCM/blob/main/2022-2H-3rd-CMC/%EC%9D%98%EA%B2%B0%EC%95%88%EA%B1%B4/%EC%9B%90%EC%B4%9D/%EC%98%88%EC%82%B0%EC%9A%B4%EC%98%81%EA%B7%9C%EC%A0%95.md)
 
-## 8. 2022년 상반기 사업 
-[하반기 사업 중운위 안건지에서 보기](https://github.com/kaistgsa/CMCM/blob/main/2021-1H-2st-CMC/%EC%9D%98%EA%B2%B0%EC%95%88%EA%B1%B4/2021%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EB%8C%80%ED%95%99%EC%9B%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C-%EC%A7%91%ED%96%89%EB%B6%80-%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D-%EC%98%88%EC%82%B0%EC%95%88-%EC%9D%B8%EC%A4%80.md)
+## 8. 2024년 상반기 사업 
+[상반기 사업 중운위 안건지에서 보기](https://github.com/kaistgsa/CMCM/blob/main/2023-2H-3rd-CMC/%EC%9D%98%EA%B2%B0%EC%95%88%EA%B1%B4/%EC%9B%90%EC%B4%9D/%EC%9B%90%EC%B4%9D_%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D.md)
 <table>
 <thead>
   <tr>
@@ -442,111 +443,63 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 </thead>
 <tbody>
   <tr>
-      <td rowspan="2">KAIST 타운홀 미팅(가칭)</td>
-    <td rowspan="2">정책국</td>
-    <td rowspan="2">3월 ~ 8월</td>
-    <td rowspan="2">학교 보직자들과의 한판 승부</td>
+      <td rowspan="2">슬기로운 대학원 생활</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">4월 ~ 7월</td>
+    <td rowspan="2">학생들에게 유용한 정보, 강연 제공</td>
     </tr>
     <tr>
   </tr>
   <tr>
-    <td rowspan="2">연구실 정보공개 플랫폼 구축</td>
-    <td rowspan="2">정책국</td>
-    <td rowspan="2">3월 ~ 8월</td>
-    <td rowspan="2">연구실 인건비, 연간 논문실적, 졸업까지 걸리는 시간 등 연구실의 정량적 정보를 공개하여 신입생들의 연구실 선택에 도움을 주는 플랫폼 구축사업</td>
+    <td rowspan="2">테마강좌</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">3월 ~ 7월</td>
+    <td rowspan="2">삶의 질을 향상시킬 수 있는 실용적인 특강 제공, 학생들에게 필요한 효율적이고 실질적인 도움을 기대</td>
   </tr>
   <tr>
   </tr>
   <tr>
-    <td rowspan="2">옆랩학생 엽서</td>
-    <td rowspan="2">홍보국</td>
-    <td rowspan="2">3월 ~ 8월</td>
-    <td rowspan="2">대학원 생활을 진행하며 겪었던 문제, 고민 등을 공유할 수 있는 창구 마련을 위해 진행하는 주1회 구독 기반 뉴스레터 서비스</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td rowspan="2">원총위키 운영</td>
-    <td rowspan="2">홍보국</td>
-    <td rowspan="2">3월 ~ 8월</td>
-    <td rowspan="2">아카이빙의 역할을 하던 원총위키를 대학원 생활 전반적인 정보를 담은 콘텐츠로의 확장 및 교내 구성원 대상 홍보</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td rowspan="2">원총뉴스</td>
-    <td rowspan="2">홍보국</td>
-    <td rowspan="2">3월 ~ 8월</td>
-    <td rowspan="2">매달 말 마다 원총에서 진행한 사업, 정책의 성과들을 정리하여 뉴스 형식으로 학생들에게 안내 및 홍보</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td rowspan="2">전문연 입소/퇴소 차량 지원</td>
-    <td rowspan="2">사무국</td>
-    <td rowspan="2">3월 ~ 8월</td>
-    <td rowspan="2">전문연구요원에 편입된 박사과정 학생들에게 교통 편의를 제공하기 위해 논산훈련소까지 차량을 지원</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td rowspan="2">예비군 입소/퇴소 차량 지원</td>
-    <td rowspan="2">사무국</td>
-    <td rowspan="2">3월 ~ 8월</td>
-    <td rowspan="2">예비군 훈련 입/퇴소 버스 지원</td>
+    <td rowspan="2">문화버스</td>
+    <td rowspan="2">문화국</td>
+    <td rowspan="2">6월 ~ 8월</td>
+    <td rowspan="2">대전 근교의 여러 여행지를 찾아 나서는 버스 투어 및 체험</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td rowspan="2">카이밍글</td>
-    <td rowspan="2">정보국</td>
+    <td rowspan="2">문화국</td>
     <td rowspan="2">3월 ~ 8월</td>
     <td rowspan="2">코로나19로 인한 비대면 환경 속에서 대학원생의 원활한 정보/경험 공유를 촉진</td>
   </tr>
   <tr>
   </tr>
   <tr>
-    <td rowspan="2">테마강좌</td>
-    <td rowspan="2">문화국</td>
-    <td rowspan="2">3월 ~ 6월</td>
-    <td rowspan="2">삶의 질을 향상시킬 수 있는 실용적인 특강 제공, 학생들에게 필요한 효율적이고 실질적인 도움을 기대</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td rowspan="2">랜선가요제</td>
+    <td rowspan="2">프로야구 단체관람</td>
     <td rowspan="2">문화국</td>
     <td rowspan="2">4월 ~ 5월</td>
-    <td rowspan="2">중간고사 후, 축제 전 학생들이 즐길 수 있는 소소한 행사 제공</td>
+    <td rowspan="2">한화생명 드림플러스와 협업하여 대학원생의 문화 증진을 위해 프로야구 단체 관람을 추진</td>
   </tr>
   <tr>
   </tr>
   <tr>
-    <td rowspan="2">슬기로운 대학원 생활</td>
+    <td rowspan="2">프로축구 단체관람</td>
     <td rowspan="2">문화국</td>
-    <td rowspan="2">2월 ~ 5월</td>
-    <td rowspan="2">학생들에게 유용한 정보, 강연 제공</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td rowspan="2">과학자의 정원</td>
-    <td rowspan="2">문화국</td>
-    <td rowspan="2">5월 ~ 8월</td>
-    <td rowspan="2">학생들에게 학술적으로 도움이 될 수 있는 컨퍼런스 등 정보 공유의 장 개최</td>
+    <td rowspan="2">4월 ~ 5월</td>
+    <td rowspan="2">대전 연고 구단인 대전하나시티즌 경기를 관람하며 KAIST 학생들의 문화생활 향상 및 소통의 기회 제공</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td rowspan="2">상반기 취업박람회</td>
     <td rowspan="2">복지국</td>
-    <td rowspan="2">3월 ~ 4월</td>
+    <td rowspan="2">3월</td>
     <td rowspan="2">대학원생에게 기업 및 취업에 대한 정보 제공, 진로 탐색의 기회를 넓힐 것을 기대</td>
   </tr>
   <tr>
   </tr>
   <tr>
-    <td rowspan="2">물품대여사업</td>
+    <td rowspan="2">GSA 쓰슈</td>
     <td rowspan="2">복지국</td>
     <td rowspan="2">3월 ~ 8월</td>
     <td rowspan="2">원총이 보유하고 있는 비품 및 학생들의 수요가 높은 물품을 구매하여 대학원생들을 대상으로 상시 대여를 진행</td>
@@ -569,10 +522,34 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
   </tr>
   <tr>
   </tr>
+  <tr>
+    <td rowspan="2">대학원 소개팅(Ginder)</td>
+    <td rowspan="2">복지국</td>
+    <td rowspan="2">2월 ~ 5월</td>
+    <td rowspan="2">학생들에게 유용한 정보, 강연 제공</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="2">원총뉴스</td>
+    <td rowspan="2">홍보국</td>
+    <td rowspan="2">3월 ~ 8월</td>
+    <td rowspan="2">매달 말 마다 원총에서 진행한 사업, 정책의 성과들을 정리하여 뉴스 형식으로 학생들에게 안내 및 홍보</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="2">태울석림제 사진이벤트</td>
+    <td rowspan="2">홍보국</td>
+    <td rowspan="2">5월</td>
+    <td rowspan="2">카이스트의 마스코트인 거위를 활용하여 원총의 사업 홍보 겸 학우들의 삶 속에 소소한 행복을 불어넣기 위함</td>  
+  </tr>
+  <tr>
+  </tr>
 </tbody>
 </table>
 
-## 9. 2022년 업무분장
+## 9. 2024년 업무분장
 
 - 원총 업무는 일주일에 10시간 정도의 업무를 수행하는 것을 원칙으로 함.
 - 업무는 기본업무와 추가업무로 구분.
