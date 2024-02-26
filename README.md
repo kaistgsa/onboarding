@@ -23,7 +23,7 @@
 
 ### (3) KAIST 대학원 총학생회 조직 구성
 - [한국과학기술원 대학원 학생회칙](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-학생회칙.md) 상의 총학생회 구조
-
+도
     > 제1장 총칙  
     > 
     > 제1조 (명칭) 본회는 한국과학기술원 대학원 총학생회라 칭한다.  
@@ -339,7 +339,7 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 | 4 | **✔️ 대용량의 파일, 이미지의 첨부는 최대한 자제할 것** <br> - 필요 시 첨부파일이 아닌 링크로 대체 |
 | 5 | **✔️ 가독성이 좋은 서식을 사용할 것** | 
 | 6 | **✔️ 읽고싶은 제목으로 작성할 것**  |
-| 7 | **✔️ 지저분한 링크를 사용하지 않고 되도록 신뢰도 높은 축약 링크를 사용할 것**<br> - 🚫 https://docs.google.com/forms/d/e/1FAIpQLSdjkFW18ELd8uQenQmY7e8m3mTKa0FApoLvHGe62rC7Hv2f0Q/viewform?usp=sf_link<br> - 👌 https://forms.gle/MsxFjFA7ks6fLc8X8 | 
+| 7 | **✔️ 지저분한 링크를 사용하지 않고 되도록 신뢰도 높은 축약 링크를 사용할 것**<br> - 🚫 https://docs.google.com/forms/d/e/1FAIpQLSdjkFW18ELd8uQenQmY7e8m3mTKa0FApoLvHGe62rC7Hv2f0Q/viewform?usp=sf_link<br> - 👌 https://forms.gle/MsxFjFA7ks6fLc8X8 <br> - <strong>🚫 서드 파티 링크 축약 서비스(예: bit.ly, url.kr, m.site.naver.com 등)</strong> <br> - 👌 해당 서비스 자체에 내장된 축약 기능(예: Google 설문지에 내장된 단축 URL 기능으로 forms.gle 생성) <br> - 👌 대학원 총학생회 자체 링크 기능(정보 시스템 => 홍보 => 링크) | 
 | 8 | **✔️ 특별한 사유 없이 외국인 학생을 배제하지 말 것**    |
 | 9 | **✔️ 다른 집행부원의 일정을 고려하여 충분히 여유를 갖고 홍보를 신청할 것** |
 | 10 | **✔️ 공식 명칭을 사용할 것** <br> - 제49대VKAISTV대학원V총학생회 |
