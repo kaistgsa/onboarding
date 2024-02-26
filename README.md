@@ -1,6 +1,3 @@
-![image](https://github.com/kaistgsa/onboarding/assets/62004388/3ec0d85e-6758-4d3d-9d8a-3fac10f8aa07)KAIST 대학원 총학생회 신입부원 가이드라인
-===
-
 <!-- 되도록 링크로 빼고 내용에는 간소함을 유지할 것! -->
 ## 1. 원총의 설립 근거 
 
