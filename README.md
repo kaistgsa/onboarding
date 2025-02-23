@@ -21,8 +21,7 @@
 - 회칙 변경을 위해서는 중앙운영위원회의 승인을 받아야 함.
 
 ### (3) KAIST 대학원 총학생회 조직 구성
-- [한국과학기술원 대학원 학생회칙](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-학생회칙.md) 상의 총학생회 구조
-도
+- [한국과학기술원 대학원 학생회칙](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-학생회칙.md) 상의 총학생회 구조도
     > 제1장 총칙  
     > 
     > 제1조 (명칭) 본회는 한국과학기술원 대학원 총학생회라 칭한다.  
