@@ -1,3 +1,4 @@
+
 # 대학원 총학생회 신입부원 가이드라인
 
 <!-- 되도록 링크로 빼고 내용에는 간소함을 유지할 것! -->
@@ -6,7 +7,7 @@
 ### (1) 원총에 대한 기본 설명
 - KAIST 대학원 총학생회는 **(1) 대학원생의 권리를 보호**하고 **(2) 대학원생의 복지를 향상**하기 위해 구성된 학생 자치단체입니다. 
 
-[GSA LOGO](https://drive.google.com/drive/folders/1sHIrAyR024ddqoCS9ljjD1-wZzx5rRff) <img src="images/53대 로고.png" width="50%" height="50%">
+[GSA LOGO](<img width="1076" height="381" alt="GSA logo - color" src="https://github.com/user-attachments/assets/b3d74cd9-8ef2-4dfe-8e04-7fc7b94800e2" />) <img src="images/53대 로고.png" width="50%" height="50%">
 
 - 1973년 제1대 대학원 총학생회가 설립된 이래, 2026년 우리는 제54대 대학원 총학생회 동행(Companion) 입니다. 
     - 4대 핵심 공약
