@@ -455,7 +455,7 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
 </tbody>
 </table>
 
-## 9. 2025년 업무분장
+## 9. 2026년 업무분장
 
 - 원총 업무는 일주일에 10시간 정도의 업무를 수행하는 것을 원칙으로 함.
 - 업무는 기본업무와 추가업무로 구분.
@@ -475,8 +475,8 @@ B: 그렇군요? 저도 당신의 히스토리를 공유 받고 싶지 않아요
     - 업무분장 수정은 누구든지 회의실에서 이름을 클릭하면 가능
     - 주간업무 계획을 작성
 
-[53대 집행부 업무분장]
-https://docs.google.com/spreadsheets/d/1s1yJ8VT8AI7XMhB3JTZjJfpiemYEe5Ohqp2GfqcInDk/edit?usp=sharing
+[54대 집행부 업무분장]
+(https://docs.google.com/spreadsheets/d/15cL5YR5hT-yG7jMtjhyvXDMPijhlVw2ktnaYz2vqIvE/edit?gid=1843409028#gid=1843409028)
 
 
 ## 10. 원총 자산 소개
